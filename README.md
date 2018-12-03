@@ -23,5 +23,8 @@ December 2, 2018 -  Login function, button selection, Twitter parse and pull wor
 # Notes:
 
 For Testing purposes: 
+
 Loging - Admin
+
+
 Password - 1234
