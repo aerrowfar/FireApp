@@ -22,9 +22,10 @@ December 2, 2018 -  Login function, button selection, Twitter parse and pull wor
 
 # Notes:
 
+Uses: Twitter4J library - http://twitter4j.org/en/
+
 For Testing purposes: 
 
 User - Admin
-
 
 Password - 1234
