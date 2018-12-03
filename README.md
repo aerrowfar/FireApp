@@ -19,3 +19,9 @@ December 2, 2018 -  Login function, button selection, Twitter parse and pull wor
 3) Commenting ability
 4) Backend for commenting and water source data base.
 5) UI Cleanup and Improvements
+
+# Notes:
+
+For Testing purposes: 
+Loging - Admin
+Password - 1234
