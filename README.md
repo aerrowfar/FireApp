@@ -30,3 +30,5 @@ For Testing purposes:
 User - Admin
 
 Password - 1234
+
+Enter your Twitter API authentication in the Authentication block of Twitter activity. 
